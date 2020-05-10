@@ -1,7 +1,3 @@
-<!doctype HTML public "-//W3C//DTD HTML 4.0 Frameset//EN">
-
-<html><head><title> kervan | kervan |</title></head><body>
-
 
 
 OKUMAK VE DİNLEMEK ISTEDIGINIZ SAYFAYI SECINIZ
@@ -359,4 +355,3 @@ document.write('<script language="javascript" src="http://ic1.sitekodlari.com/se
 
 
 
-</body></html>
