@@ -1,8 +1,7 @@
 
 
 OKUMAK VE DİNLEMEK ISTEDIGINIZ SAYFAYI SECINIZ
-<br />
-<br />
+
 <audio controls="controls" id="player" style="background-color: #847711; width: 864px;">
 <source id="mp3_src" src="" type="audio/mp3"></source>
 </audio>
